@@ -1,15 +1,14 @@
 
 <div align="center">
 
-# `lalolanda11`
+# `lalolanda007st`
 
 ### `> Desarrollador autodidacta`
 
-**Construyendo software. Explorando sistemas. Aprendiendo seguridad informÃ¡tica.**
+**Construyendo software. Explorando sistemas. Aprendiendo seguridad informatica.**
 
 ```bash
-â”Œâ”€â”€(lalolandaã‰¿archlinux)-[~]
-â””â”€$ whoami
+lalolandaarchlinux)-[~] $ whoami
 Desarrollador autodidacta
 
 â””â”€$ cat /etc/mission
@@ -42,7 +41,7 @@ Actualmente enfocado en:
 
 ## `02. TecnologÃ­as y herramientas`
 
-### Lenguajes de programaciÃ³n
+### Lenguajes de programacion
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,9 +84,9 @@ Actualmente enfocado en:
 
 Proyectos personales y experimentales en desarrollo:
 
-| Proyecto | DescripciÃ³n | TecnologÃ­as |
+| Proyecto | Descripcion | TecnologÃ­as |
 |---|---|---|
-| MarcianoProx | Herramienta de gestiÃ³n de proxies | C / Python |
+| MarcianoProx | Herramienta de gestion de proxies | C / Python |
 | M&G Barber AI | AplicaciÃ³n de simulaciÃ³n de cortes de cabello | Flutter / FastAPI |
 | Gym Management | Sistema de gestiÃ³n de gimnasios | Flutter / Supabase |
 | Restaurant Management | Sistema de gestiÃ³n de restaurantes | Flutter / Backend |
@@ -98,7 +97,7 @@ Proyectos personales y experimentales en desarrollo:
 
 ## `05. Objetivos actuales`
 
-- [ ] Profundizar en programaciÃ³n de sistemas con C.
+- [ ] Profundizar en programacion de sistemas con C.
 - [ ] Desarrollar herramientas propias desde cero.
 - [ ] Mejorar mis conocimientos de Python.
 - [ ] Construir APIs con FastAPI.
@@ -109,7 +108,7 @@ Proyectos personales y experimentales en desarrollo:
 
 ---
 
-## `06. FilosofÃ­a`
+## `06. Filosofia
 
 ```bash
 $ while true; do
@@ -120,13 +119,13 @@ $ while true; do
 done
 ```
 
-**No se trata solamente de utilizar herramientas, sino de comprender cÃ³mo funcionan y aprender a construirlas.**
+**No se trata solamente de utilizar herramientas, sino de comprender como funcionan y aprender a construirlas.**
 
 ---
 
 <div align="center">
 
-### `07. Conectemos`
+### `07. Contacto`
 
 [![GitHub](https://img.shields.io/badge/GitHub-lalolanda007st-181717?style=for-the-badge&logo=github)](https://github.com/lalolanda007st)
 
